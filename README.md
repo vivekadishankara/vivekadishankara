@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I am Vivek Naik
 
 <!--
 **vivekadishankara/vivekadishankara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a python developer in firmware automation testing, trying to pivot my career in Rust development.
+Have been learning Rust for a year now. The most awesome thing I did in 2025 was this:
+[![simulation.gif](simulation.gif)](https://github.com/vivekadishankara/pis)
+
+- 🔭 I’m currently working on [A molecular dynamics program](https://github.com/vivekadishankara/pis) in Rust
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on [bevy game engine](https://github.com/bevyengine/bevy)
+- 📫 How to reach me: Please contact me vivek.naik@zohomail.in
